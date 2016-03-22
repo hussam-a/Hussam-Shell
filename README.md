@@ -1,7 +1,7 @@
-# UNIX Shell
+# Hussam Shell
 Simple UNIX Shell
 
-##Features:
+## Features:
 - Choosing to wait for command to finish processing or not.
 - History Feature
   * type "history" to view command history
