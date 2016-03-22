@@ -1,5 +1,5 @@
 # UNIX Shell
-Wraps around standard UNIX shell and provides more features
+Simple UNIX Shell
 
 ##Features:
 - Choosing to wait for command to finish processing or not.
