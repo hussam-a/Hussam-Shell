@@ -1,4 +1,9 @@
-# Operating Systems Projects
+# UNIX Shell
+Wraps around standard UNIX shell and provides more features
 
-Contents:
-- UNIX Shell with History Feature (Project from Silberschatz's Operating System Concepts)
+##Features:
+- Choosing to wait for command to process (the child process) or not.
+- History Feature
+  * type "history" to view command history
+  * type "! !" to execute last command
+  * type "! x" to execute the xth command from history
