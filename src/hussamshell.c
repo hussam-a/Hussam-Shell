@@ -3,7 +3,7 @@ Part of Hussam-Shell (github.com/hussam-a/Hussam-Shell)
 Authors:
 Hussam A. El-Araby (github.com/hussam-a)
 
-Project code and configurations are under the GNU GPL license (circ-min/LICENSE) 
+Project code and configurations are under the GNU GPL license (Hussam-Shell/LICENSE) 
 */
 
 #include <stdio.h>
