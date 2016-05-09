@@ -1,9 +1,9 @@
 /*
-Hussam Ashraf El-Araby
-CSCE OS course Spring 2016
-900131261
-Project 1
-Page 154 (Operating System Concepts 9th, international edition)
+Part of Hussam-Shell (github.com/hussam-a/Hussam-Shell)
+Authors:
+Hussam A. El-Araby (github.com/hussam-a)
+
+Project code and configurations are under the GNU GPL license (circ-min/LICENSE) 
 */
 
 #include <stdio.h>
