@@ -2,6 +2,7 @@
 Simple UNIX Shell
 
 Authors:
+
 Hussam A. El-Araby (github.com/hussam-a)
 
 Project code and configurations are under the GNU GPL license (Hussam-Shell/LICENSE)
